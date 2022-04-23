@@ -1,10 +1,4 @@
-# Postman demo with restful-booker
-
-## Background
-
-[Exploring Service APIs through Test Automation](https://testautomationu.applitools.com/exploring-service-apis-through-test-automation/)
-
-In it, she introduces API testing basics, [Postman](https://www.getpostman.com/), the [Restful Booker API](https://restful-booker.herokuapp.com/) and [Newman](https://github.com/postmanlabs/newman). Her course inspired me to explore each of these and learn more about API testing.
+#restful-booker_By_Postman 
 
 I set up this repo as a place to store my study work and document for myself what I've learned so far. 
 ## Repo Structure
